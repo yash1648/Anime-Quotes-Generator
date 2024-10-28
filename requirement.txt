@@ -1,0 +1,5 @@
+flask
+datasets
+pandas
+numpy
+flask-sqlalchemy 
