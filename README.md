@@ -23,15 +23,17 @@ Generate random anime quotes using this Python script.
 1. Clone this repository:
    ```bash
 git clone https://github.com/your-username/Anime-Quotes-Generator.git
+```
 
 2. Install required packages:
     ```bash
 pip install -r requirement.txt
+```
 
 3. Run the script to start generating quotes:
    ```bash
 python run.py
-
+```
 
 ## Usage
 --------------
